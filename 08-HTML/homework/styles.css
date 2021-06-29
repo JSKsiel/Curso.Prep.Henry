@@ -5,6 +5,26 @@ h1{ color: green;
 
 }
 
-.divclass { font-size: 60 px;
+ #spanid { 
+     font-size: 18px; color: yellow;
+     margin: 50px;
 
 }
+
+#thirdiv{
+    width: 600px;
+    height: 500px;
+    background-color: blue;
+    padding: 50px;
+    border: 3px solid black;
+   
+
+} 
+img{ 
+    width: 400px;
+}
+
+    
+
+
+
